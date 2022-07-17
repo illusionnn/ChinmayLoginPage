@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758876429371",
+    "project_id": "chinmayloginpage",
+    "storage_bucket": "chinmayloginpage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758876429371:android:56e10a59e8eb0fcaa0901e",
+        "android_client_info": {
+          "package_name": "com.example.chinmayloginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758876429371-m62hgv0kt1bgc95lv72ct18iqjjg8iov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7WjEnqKfdMrD3DbTb8He2cpn6gY7LDbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758876429371-m62hgv0kt1bgc95lv72ct18iqjjg8iov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
